@@ -22,7 +22,6 @@ Recently graduated with bachelor's degree in software development at "Ecole Nati
 <br/><br/>
 
  <p align="center">
-<a href="https://linkedin.com/in/sambany-michel-laurenzio-48016b188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sambany michel laurenzio" height="30" width="40" /></a>
-<a href="https://fb.com/laurenz.sambany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laurenzio sambany" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/laurenziosambany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="laurenziosambany" height="30" width="40" /></a>
-</p>
+<a href="www.linkedin.com/in/angelo-nambinintsoa-rakotonirina-257-939-107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/laurenz.sambany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laurenzio sambany" height="30" width="40" /></a> -->
+
